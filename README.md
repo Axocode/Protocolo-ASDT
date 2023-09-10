@@ -23,8 +23,8 @@ Paso 1: Codificar sus Datos
     Reduerde no es necesario colocar de nuevo los datos que desea transmitir, la doble codificación se realiza de forma certera y automática.
   	
 Paso 2: Transmisión Segura
-3.	Transmisión de Datos: Envíe los datos codificados al destinatario de manera segura. 
-    Utilice canales de comunicación seguros, como conexiones HTTPS o redes privadas virtuales (VPN), para minimizar el riesgo de interceptación.
+3.	Transmisión de Datos: Envíe los datos codificados al destinatario de manera segura. Utilice canales de comunicación seguros, como conexiones
+    HTTPS o redes privadas virtuales (VPN), para minimizar el riesgo de interceptación.
     
 Paso 3: Decodificación de Datos
 
@@ -33,7 +33,7 @@ Paso 3: Decodificación de Datos
 III. Consejos Importantes
 
 •	Claves de Cifrado: Mantenga sus claves de cifrado seguras y no las compártalas con externos. 
-  La seguridad de sus datos depende en gran medida de la seguridad de sus claves.
+    La seguridad de sus datos depende en gran medida de la seguridad de sus claves.
 •	Actualización Regular: Revise y actualice sus métodos de codificación y claves regularmente para mantenerse protegido contra las amenazas emergentes.
 •	Seguridad de la Red: Asegúrese de que la transmisión de datos se realice a través de una red segura y utilice protocolos de seguridad, como TLS/SSL, si es aplicable.
 •	Mantenga el Software Actualizado: Utilice software actualizado y parcheado para evitar vulnerabilidades conocidas.
