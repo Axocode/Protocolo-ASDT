@@ -23,6 +23,7 @@ Paso 1: Codificar sus Datos
     Reduerde no es necesario colocar de nuevo los datos que desea transmitir, la doble codificación se realiza de forma certera y automática.
   	
 Paso 2: Transmisión Segura
+
 3.	Transmisión de Datos: Envíe los datos codificados al destinatario de manera segura. Utilice canales de comunicación seguros, como conexiones
     HTTPS o redes privadas virtuales (VPN), para minimizar el riesgo de interceptación.
     
